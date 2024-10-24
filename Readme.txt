@@ -1,7 +1,7 @@
-The cloudinary and mongo will work in a very short time, so please make sure to update cloudinary and mongo APIs.
+IF the cloudinary and mongo APIs are empty, so please signup and create APIs.
 You will find the ".env" file in the backend.
 
-At VsCode seperate the terminals of three folders:
+At VsCode run each folder in integrated terminals seperately:
 Firstly run the backend server, make sure to install the node server and packages first:
 
 npm install
@@ -9,7 +9,7 @@ npm install
 npm run server
 
 
-For the admin and then fronendpanel, they run in vite:
+For the admin and then fronendpanel:
 
 npm install
 
